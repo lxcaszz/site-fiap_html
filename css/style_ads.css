@@ -1,0 +1,45 @@
+body{
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    color: orange;
+}
+
+.image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+h2{
+    color: orange;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+}
+
+.texto{
+    border: solid;
+    border-radius: 2rem;
+    margin-top: 10px;
+    margin-right: 30%; 
+    margin-left: 30%; 
+
+
+}
+
+.proximo{
+    text-align: center;
+    margin-top: 22rem;
+}
